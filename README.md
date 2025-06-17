@@ -13,7 +13,7 @@ This app allows users to deposit assets and later withdraw them without linking 
 
 ## How are ZKPs used in this app
 
-Zero Knowledge Proofs (ZKPs) allow a prover to convince a verifier that a specific computation was correctly executed without requiring the verifier to rerun it. The proof ensures correctness without revealing the inputs used in the computation. The ‘zero-knowledge’ property means that the proof can be structured in a way that leaks no additional information beyond the validity of the computation itself.
+Zero Knowledge Proofs (ZKPs) allow a prover to convince a verifier that a specific computation was correctly executed without requiring the verifier to rerun it. The proof ensures correctness without revealing the inputs used in the computation. The ‘zero-knowledge’ property means that the proof can be structured in a way that leaks no additional information beyond the validity of the computation itself
 
 ### Notes
 
