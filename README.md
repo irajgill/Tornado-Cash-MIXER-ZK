@@ -1,4 +1,4 @@
-This app allows users to deposit assets and later withdraw them without linking the withdrawal to the deposit. It allows withdrawers to prove ownership of a deposit without revealing which deposit belongs to the withdrawer.
+This app allows users to deposit assets and later withdraw them without linking the withdrawal to the deposit. It allows withdrawers to prove ownership of a deposit without revealing which deposit belongs to the withdrawer. 
 
 ## How it works
 
