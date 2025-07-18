@@ -1,12 +1,12 @@
 use std::hash::poseidon2;
 mod merkle_tree;
 fn main(
-    // Public inputs
+    
     root: pub Field,
     nullifier_hash: pub Field,
     recipient: pub Field,
 
-    // Private inputs
+    
     nullifier: Field,
     secret: Field,
     merkle_proof: [Field; 20],
